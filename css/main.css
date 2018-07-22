@@ -45,10 +45,11 @@ h1, h2, h3, h4{
     -ms-transform: rotate(90deg);
     -o-transform: rotate(90deg);
     transform: rotate(90deg);
+    margin-top: .38rem;
 }
 .cool-texte-accroche{
     margin-right: .3rem;
-    font-size: .8rem;
+    /*font-size: .8rem;*/
 }
 .cool-slogan-link{
     font-weight: 100;

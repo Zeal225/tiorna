@@ -29,10 +29,12 @@
     .cool-header{
         padding: 1rem .6rem;
     }
-    .cool-header-icon {
-        width: 1.5rem;
-        height: 1.5rem;
-    }
+    /*.cool-header-icon {*/
+       /*display: none;*/
+    /*}*/
+    /*.cool-texte-accroche {*/
+        /*text-decoration: underline;*/
+    /*}*/
 }
 @media only screen and (max-width: 380px){
     .cool-section-author .cool-row .cool-author-flex {
