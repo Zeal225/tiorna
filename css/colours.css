@@ -1,0 +1,35 @@
+.cool-footer,
+.cool-header{
+    background-color: rgba(0, 0, 0, 1);
+}
+.cool-opacity-tableau{
+    background: rgba(0, 0, 0, .7);
+}
+.cool-nav-bar > a,
+.cool-content-expo p,
+.cool-btn-show-more,
+.cool-home-text .cool-home-slide-text,
+.cool-home-text h2,
+.cool-welcome-texte{
+    color: rgba(255, 255, 255, 1);
+}
+.cool-section-title:after,
+.cool-btn-show-more{
+    background-color: rgba(253, 184, 19, 1);
+}
+.cool-author-informations a,
+.cool-content-expo h2,
+.cool-art-color{
+    color: rgba(253, 184, 19, 1);
+}
+
+
+.cool-section-tableau{
+    background-color: rgba(255, 255, 255, 1);
+}
+.cool-section-author{
+    background-color: rgba(255, 255, 255, 0.89)
+}
+.cool-section-title{
+    text-align: center;
+}
