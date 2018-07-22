@@ -107,12 +107,12 @@ h1, h2, h3, h4{
 }
 .cool-section-title {
     text-align: center;
-    /* padding-bottom: 1rem; */
     font-size: 2rem;
-    /* text-transform: uppercase; */
      font-weight: 900;
     text-transform: uppercase;
     padding-bottom: calc(3rem - .6rem);
+    padding-left: .6rem;
+    padding-right: .6rem;
 }
 .cool-section-tableau .cool-row{
     display: flex;
